@@ -11,8 +11,8 @@ This is a simple face and eye detection program built using OpenCV library. It u
 ''git clone https://github.com/your-username/face-and-eye-detector.git''
 
 
-def hello_world():
-    print("Hello, World!")
+'def hello_world():
+    print("Hello, World!")'
 
 
 
