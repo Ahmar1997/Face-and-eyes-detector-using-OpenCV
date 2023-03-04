@@ -29,5 +29,3 @@ while True:
     
 cap.release() 
 cv2.destroyAllWindows() 
-
-# youtube reference:  https://www.youtube.com/watch?v=mPCZLOVTEc4&list=PLzMcBGfZo4-lUA8uGjeXhBUUzPYc6vZRn&index=8&ab_channel=TechWithTim
