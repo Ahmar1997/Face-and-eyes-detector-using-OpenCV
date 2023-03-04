@@ -18,7 +18,7 @@ This is a simple face and eye detection program built using OpenCV library. It u
 
 3. Run the program.
 
-`python Face_and_eyes_detector.py`
+`python Face-and-eyes-detector-using-OpenCV.py`
 
 # Usage
 
