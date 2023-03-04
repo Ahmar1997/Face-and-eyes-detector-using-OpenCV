@@ -39,9 +39,8 @@ Haar Cascades
 Contributions are always welcome! If you would like to contribute to this project, feel free to submit a pull request or raise an issue.
 
 
+# Results
 
+![face detector result](https://user-images.githubusercontent.com/116836999/222927960-5adee49c-59a0-45e3-b44a-e586d9e17f3a.png)
 
-
-
-# add results
 # add comments in code
