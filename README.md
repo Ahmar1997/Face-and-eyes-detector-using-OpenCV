@@ -10,7 +10,7 @@ This is a simple face and eye detection program built using OpenCV library. It u
 1. Clone the repository or download the python file.
 
 
-`git clone https://github.com/your-username/face-and-eye-detector.git`
+`git clone https://github.com/your-username/Face-and-eyes-detector-using-OpenCV.git`
 
 2. Install the required dependencies using pip.
 
