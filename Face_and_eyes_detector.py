@@ -1,3 +1,5 @@
+
+# importing dependecies
 import numpy
 import cv2
 
