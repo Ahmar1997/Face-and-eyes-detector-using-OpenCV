@@ -44,5 +44,3 @@ Haar Cascades
 
 # Contributing
 Contributions are always welcome! If you would like to contribute to this project, feel free to submit a pull request or raise an issue.
-
-# add comments in code
